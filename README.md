@@ -1,6 +1,5 @@
 #  𝐏𝐥𝐚𝐜𝐞𝐦𝐞𝐧𝐭 𝐂𝐞𝐥𝐥 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 🦁
- 
-   
+# 🔗🌐Checkout the Website 
 ---
 ## Introduction : 🫵
     The Placement Cell Application is a Full Stack Application built using MongoDB, ExpressJS, NodeJS, EJS, Express Partials-Layouts, GulpJS,
@@ -46,3 +45,71 @@
   <img width="100" height="100" src="https://res.cloudinary.com/practicaldev/image/fetch/s--YbV36HLj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/hpg6if7btrwilqkidqbe.png">
   <img width="100" height="100" src="https://newrelic.com/sites/default/files/styles/og_image/public/2021-10/mongo_logo.jpg?h=2a479378&itok=_jsp1xWA">
   <img width="100" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLy-1SN4fo9U4Sn7S4aI_PyQr5x9sODPQ6V2-YHT4&s">
+  
+# Use Of Library 📙:
+---
+ 🟠 bcryptjs
+ ---
+ 🟠 connect-flash
+ ---
+ 🟠 connect-mongo
+ ---
+ 🟠 cookie-parser
+ ---
+ 🟠 cors
+ ---
+ 🟠 crypto
+ ---
+ 🟠 csv-stringify
+ ---
+ 🟠 del
+ ---
+ 🟠 dotenv
+ ---
+ 🟠 ejs
+ ---
+ 🟠 express
+ ---
+ 🟠 express-ejs-layouts
+ ---
+ 🟠 express-session
+ ---
+ 🟠 express-validator
+ ---
+ 🟠 gulp-cssnano
+ ---
+ 🟠 gulp-imagemin
+ ---
+ 🟠 gulp-rev
+ ---
+ 🟠 gulp-sass
+ ---
+ 🟠 gulp-uglify-es
+ ---
+ 🟠 json2csv
+ ---
+ 🟠 mongoose
+ ---
+ 🟠 morgan
+ ---
+ 🟠 multer
+ ---
+ 🟠  node-sass
+ ---
+ 🟠 node-sass-middleware
+ ---
+ 🟠 nodemon
+ ---
+ 🟠 noty
+ ---
+ 🟠 passport
+ ---
+ 🟠 passport-google-oauth
+ ---
+ 🟠 passport-local
+ ---
+ 🟠 rotating-file-stream
+ ---
+ 🟠 validator
+ ---
+    
