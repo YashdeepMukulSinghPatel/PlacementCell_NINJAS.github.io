@@ -35,5 +35,7 @@
   🟠For Production Mode:
     Run 'npm run prod_start' in GitBash Terminal
   ---
+  
   # Tools Used 🛠️:
-                <width="100" alt="GFG" img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCSS&psig=AOvVaw094g6v6jgikLRYT4t3KwMd&ust=1683458672794000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNC3ivjK4P4CFQAAAAAdAAAAABAE">
+  <img src="https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=612x612&w=0&k=20&c=A63koPKaCyIwQWOTFBRWXj_PwCrR4cEoOw2S9Q7yVl8=">
+               
