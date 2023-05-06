@@ -28,7 +28,7 @@
   🟠If you want to run the project in production mode then go to '.env' file & set,
   ---
     ENVIRONMENT=production
-    DEPLOYMENT=local/other/render/AWS
+    DEPLOYMENT=local
   ---
   🟠For Development Mode:
     Run 'npm run dev_start' in GitBash Terminal
