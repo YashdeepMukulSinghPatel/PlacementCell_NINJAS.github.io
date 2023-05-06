@@ -51,6 +51,10 @@
 ---
  🟠 bcryptjs
  ---
+ 🟠 body-parser
+ ---
+ 🟠 comment
+ ---
  🟠 connect-flash
  ---
  🟠 connect-mongo
@@ -110,6 +114,8 @@
  🟠 passport-local
  ---
  🟠 rotating-file-stream
+ ---
+ 🟠 sweetalert
  ---
  🟠 validator
  ---
