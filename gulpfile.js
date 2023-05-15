@@ -14,6 +14,7 @@ const imagemin = require("gulp-imagemin");
 //Require the Del Module for Deleting the Old Asset Files
 const del = require("del");
 
+
 //Minifies the CSS Files
 gulp.task("css", (done) => {
 	console.log("Minifying CSS...");
